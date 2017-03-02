@@ -1,0 +1,27 @@
+.makmurlogo1 {
+	width: 40%;
+	height: auto;
+}
+
+#splash .loader .line {
+  background-color: orange;
+}
+
+.center-align{
+	text-align: center;
+}
+
+#menu_container {
+	height:100%;
+	overflow: hidden;
+	vertical-align: center;
+}
+
+#menu_click {
+	width: 60%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+#menu_click:hover {
+	opacity: 0.7;
+}
